@@ -1,0 +1,25 @@
+body {
+    font-size: 16px;
+
+    font-family: 'Comic Neue';
+}
+nav {
+    border-bottom: #000000 1.5px solid;
+    color: #ffffff;
+}
+.naver{
+    font-size:  3em;
+    font-weight: bolder;
+}
+h1{
+    font-weight: bold;
+}
+.row{
+    border: #000000 1.5px solid;
+}
+@media(max-width:600px){
+    .container{
+        width: 90%;
+        margin: 5%;
+    }
+}
