@@ -64,5 +64,5 @@ for (i in names) {
   } else {
       window.helloSpeaker.speak(names[i]);
   }
- 	console.log();
+ 	//console.log();
 }
